@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="img/warning.png" alt="SCC Alerts">
+<img src="img/warning.png" alt="SCC Alerts" width="100px">
 <br>Cloud Run Testing App
 </h1>
 <h5 align="center">A very simple Google Cloud Run app for testing.</h5>
@@ -18,11 +18,11 @@ An app that accepts args or json and then logs the data and limited request call
 
 ### Clone the repository 
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fgschaeffer%2Fscc_alerts&cloudshell_git_branch=main)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/gschaeffer/generic_cloudrun.git&cloudshell_git_branch=main)
 
 Clone the repo to Cloud Shell. Optionally, clone to a VM or your local machine if you prefer.
 ```bash
-git clone https://github.com/gschaeffer/scc_alerts
+git clone https://github.com/gschaeffer/generic_cloudrun.git
 ```
 
 #### Enable services
