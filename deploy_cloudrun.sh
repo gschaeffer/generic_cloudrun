@@ -1,6 +1,6 @@
 export PROJECT=$(gcloud config get-value project | tr ':' '/')
 
-gcloud run deploy testing_app \
+gcloud run deploy testing-app \
     --cpu=2000m \
     --allow-unauthenticated \
     --max-instances=1 \

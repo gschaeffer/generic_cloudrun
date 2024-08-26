@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="img/warning.png" alt="SCC Alerts" width="100px">
+<img src="img/warning.png" alt="SCC Alerts" width="300px">
 <br>Cloud Run Testing App
 </h1>
 <h5 align="center">A very simple Google Cloud Run app for testing.</h5>
